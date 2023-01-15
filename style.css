@@ -29,12 +29,9 @@ html {
 
 .header .logo {
     font-size: 24px;
+    color: #F9FAF8;
 }
 
-.header .logo img {
-    width: 100%;
-    height: 50px;
-}
 
 .header .navbar a {
     font-size: 18px;
